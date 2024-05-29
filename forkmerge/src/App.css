@@ -1,0 +1,36 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
+
+.auth button {
+  margin: 5px;
+}
+
+.app-main {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.questions, .calendar {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 45%;
+}
+
+.questions ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.questions li {
+  margin: 10px 0;
+}
