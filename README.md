@@ -9,5 +9,5 @@ Aplicacion colaborativa con el fin de reforzar las habilidades de redaccion en l
  4. Verifica la versión node js, abrir la terminal y ingresar el siguiente comando:
     ### `node -v`
  5. Abrir el terminal donde hayas descargado el proyecto y dirigirse a  \forkmerge\forkmerge, dentro de ahí ejecutar el siguiente comando:
-   ### `npm start`
+    ### `npm start`
  6. Si se genera el conflicto "react-scripts" no se reconoce como un comando interno o externo", verifica que el paquete "react-scripts" esté instalado correctamente. Puedes hacerlo ejecutando el comando "npm list react-scripts" en la raíz del proyecto. Si no está instalado, puedes instalarlo ejecutando el comando "npm install react-scripts".
